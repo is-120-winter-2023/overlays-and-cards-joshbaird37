@@ -207,7 +207,10 @@ footer {
 .hero .overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(transparent, #222);
+  background: linear-gradient(
+    rgba(110, 248, 102, 0.267),
+    rgba(100, 120, 251, 0.3)
+  );
 }
 
 img,
